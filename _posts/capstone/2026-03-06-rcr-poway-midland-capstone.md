@@ -7,4 +7,4 @@ permalink: /capstone/rcr-poway-midland-railroad/
 sticky_rank: 1
 ---
 
-{% include rcr_poway_midland_infograph.html %}
+{% include rcr-poway-midland-infograph.html %}
