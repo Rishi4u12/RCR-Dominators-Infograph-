@@ -6,3 +6,5 @@ description: "A Design-Based Research capstone by RCR team modernizing the Poway
 permalink: /capstone/rcr-poway-midland-railroad/
 sticky_rank: 1
 ---
+
+{% include rcr-poway-midland-infograph.html %}
