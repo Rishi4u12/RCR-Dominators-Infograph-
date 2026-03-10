@@ -4,8 +4,8 @@ Description: "A Design-Based Research capstone by RCR team modernizing the Poway
 
 Features:
   - title: "RCR Interactive Train Schedule System"
-    image: "capstone/rcr-train-schedule.png"
-    link: "/capstone/rcr-poway-midland-schedule/"
+    image: "images/capstone/RCR-inforgraph.png"
+    link: "/capstone/rcr/"
     alt: "RCR Interactive Train Schedule - Real-time departure board showing train times and availability"
     keyPoints:
       - "Real-time departure times with live status updates"
@@ -34,8 +34,8 @@ Features:
     - Rebecca, Cyrus, Rishabh
 
   - title: "RCR Virtual Railroad Tour"
-    image: "capstone/rcr-virtual-tour.png"
-    link: "/capstone/rcr-poway-midland-tour/"
+    image: "images/capstone/RCR-inforgraph.png"
+    link: "/capstone/rcr/"
     alt: "RCR Virtual Railroad Tour - 360° interactive views of trains and Old Poway Park"
     keyPoints:
       - "360° panoramic views of trains and tracks"
@@ -64,8 +64,8 @@ Features:
     - Rebecca, Cyrus, Rishabh
 
   - title: "RCR Live Train Tracker"
-    image: "capstone/rcr-train-tracker.png"
-    link: "/capstone/rcr-poway-midland-tracker/"
+    image: "images/capstone/RCR-inforgraph.png"
+    link: "/capstone/rcr/"
     alt: "RCR Live Train Tracker - Real-time GPS map showing train position on tracks"
     keyPoints:
       - "Live train position on interactive park map"
@@ -94,8 +94,8 @@ Features:
     - Rebecca, Cyrus, Rishabh
 
   - title: "RCR Volunteer Management Portal"
-    image: "capstone/rcr-volunteer-portal.png"
-    link: "/capstone/rcr-poway-midland-volunteer/"
+    image: "images/capstone/RCR-inforgraph.png"
+    link: "/capstone/rcr/"
     alt: "RCR Volunteer Portal - Digital scheduling and hours tracking interface"
     keyPoints:
       - "Online shift sign-up and scheduling"
